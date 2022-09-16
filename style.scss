@@ -37,15 +37,15 @@ body{
 /* Grid */
 
 .header {
-    padding-top: 1px;
-    padding-bottom: 1px;
-    display: flex;
-    background-color: #219653;
-    height: 20px;
-    align-items: center;
+
 }
 
 .header-row {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: #219653;
+    height: 20px;
+    align-items: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
